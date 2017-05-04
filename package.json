@@ -1,0 +1,22 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "A command line app to run through flash cards",
+  "main": "basic-card.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mattj742/Flashcard-Generator.git"
+  },
+  "author": "Matt Johnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mattj742/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/Mattj742/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^3.0.6"
+  }
+}
